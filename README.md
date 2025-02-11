@@ -6,6 +6,7 @@ language:
 - id
 - ms
 - vi
+- th
 ---
 ## Description
 100,000 Fine-Tuning text data set for Southeast Asian Language LLM General Domain SFT. Contains 12 types of SFT QA, and the accuracy is not less than 95%. All prompts are manually written to meet diversity coverage.. All prompts are manually written to meet diversity coverage.
